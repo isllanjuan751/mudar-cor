@@ -1,0 +1,1 @@
+var e=()=>{document.title===`Site`?(document.title=`Site ta doido`,document.title===`Site ta doido`&&(document.title=`Sita tá um caos, renicie`)):document.title=`Site`};export{e as mudar_titulo};

@@ -1,0 +1,1 @@
+var e=document.getElementById(`Texto`),t=()=>{e.textContent=e.textContent===`O site tá um caos`?`O site esta pior`:`O site tá um caos`};export{t as mudar_texto};
