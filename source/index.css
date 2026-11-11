@@ -1,0 +1,18 @@
+body {
+    background-color: brown;
+}
+
+#mudar-cor {
+    margin: 20px 0px 0px 570px;
+    background-color: black;
+    color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+
+#Texto {
+    padding: 60px 0px 0px 580px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: azure;   
+}
